@@ -1,0 +1,4 @@
+dep ensure -add github.com/gorilla/mux.git
+dep ensure
+dep ensure -add github.com/HouzuoGuo/tiedot.git
+dep ensure
